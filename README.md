@@ -16,3 +16,12 @@ Topics for future meetups are submitted by opening an [issue](https://github.com
 * One topic per issue please. If you end up coming up with more through conversation, pop them out into new issues.
 * Topics are picked based on thumbs. The topics with the most thumbs up will be move forward in the process. [How to Add Reactions to Issues](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)
 * Interactions inside this repo should follow our [code of conduct](http://coc.webstackers.org/).
+
+## Topic Inspiration Ideas
+
+* Cool projects you have worked on lately
+* Neat ideas from books and articles you have found
+* Technologies you are passionate about and want to share
+* Something you are interested in but want to learn more about
+* Pain-points you have fixed and what to help others fix
+
