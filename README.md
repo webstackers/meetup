@@ -15,4 +15,4 @@ Topics for future meetups are submitted by opening an [issue](https://github.com
 * Keep it PG13-ish. We are all adults but we don't want topics uncomfortable to talk about.
 * One topic per issue please. If you end up coming up with more through conversation, pop them out into new issues.
 * Topics are picked based on thumbs. The topics with the most thumbs up will be move forward in the process. [How to Add Reactions to Issues](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)
-* Interactions inside this repo should follow our code of [conduct](http://coc.webstackers.org/).
+* Interactions inside this repo should follow our [code of conduct](http://coc.webstackers.org/).
